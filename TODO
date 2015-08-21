@@ -1,0 +1,3 @@
+* add district1950 with latlong projection
+* provide function to reshape data to spacetime format (space cycling fastest)
+* 

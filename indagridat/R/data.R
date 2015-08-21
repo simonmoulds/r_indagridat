@@ -41,16 +41,3 @@
 #'
 #' data(icrisat1950)
 "icrisat1950"
-
-
-#' Indian district map circa 1956
-#'
-#' Map showing Indian district boundaries... TODO
-#'
-#' @format A SpatialPolygonsDataFrame object
-#'
-#' @examples
-#'
-#' data(district1950)
-"district1950"
-
