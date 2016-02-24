@@ -1,0 +1,161 @@
+1. District wise irrigation through supplementary sources with dugwells
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-dugwells-2nd-census-minor/download
+micensus_1993-94_1_dugwell.csv
+
+2. District wise dugwells in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-dugwells-command-majormedium-projects-and-supplementary-irrigation-3rd/download
+micensus_2000-01_2_dugwell.csv
+
+3. District wise potential utilized through dugwells
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-dugwells-2nd-census-minor-irrigation/download
+micensus_1993-94_3_dugwell.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-dugwells-3rd-census-minor-irrigation-scheme-2000/download
+micensus_2000-01_3_dugwell.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-dugwell-4th-minor-irrigation-census/download
+micensus_2006-07_3_dugwell.csv
+
+4. District wise distribution of dugwells by status
+https://data.gov.in/resources/district-wise-distribution-dugwells-its-status-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_4_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-status-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_4_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-status-utilisation-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_4_dugwell.csv
+
+5. District wise distribution of dugwells by type
+https://data.gov.in/resources/district-wise-distribution-dugwells-its-type-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_5_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-type-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_5_dugwell.csv
+https://data.gov.in/resources/district-wise-number-dugwells-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_5_dugwell.csv
+
+6. District wise dugwells according to the constraints
+https://data.gov.in/resources/district-wise-dugwells-according-constraints-2nd-census-minor-irrigation-schemes-1993-94/download
+micensus_1993-94_6_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-constraints-utilisation-potential-4th-minor/download
+micensus_2006-07_6_dugwell.csv
+
+7. District wise construction of dugwells over the years
+https://data.gov.in/resources/district-wise-construction-dugwells-over-years-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_7_dugwell.csv
+https://data.gov.in/resources/district-wise-construction-dugwells-over-years-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_7_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-and-cost-construction-over-year-4th-minor-irrigation/download
+micensus_2006-07_7_dugwell.csv
+
+8. District wise distribution of dugwells according to ownership
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-2nd-census-minor-irrigation/download
+micensus_1993-94_8_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_8_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-4th-minor-irrigation-census-2006/download
+micensus_2006-07_8_dugwell.csv
+
+9. District wise distribution of dugwells according to social status
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-2nd-census-minor-irrigation/download
+micensus_1993-94_9_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-3rd-census-minor-irrigation/download
+micensus_2000-01_9_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-owner-4th-minor-irrigation/download
+micensus_2006-07_9_dugwell.csv
+
+10. District wise distribution of dugwells according to source of finance
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-finance-source-2nd-census-minor-irrigation/download
+micensus_1993-94_10_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-finance-3rd-census-minor-irrigation/download
+micensus_2000-01_10_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-finance-4th-minor-irrigation-census/download
+micensus_2006-07_10_dugwell.csv
+
+11. District wise distribution of dugwells according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-water-lifting-device-3rd-census-minor/download
+micensus_2000-01_11_dugwell.csv
+https://data.gov.in/resources/district-wise-dugwells-according-water-lifting-device-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_11_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-lifting-devices-4th-minor-irrigation-census/download
+micensus_2006-07_11_dugwell.csv
+
+12. District wise dugwells according to water distribution system
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-2nd-census-minor-irrigation/download
+micensus_1993-94_12_dugwell.csv
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-3rd-census-minor-irrigation/download
+micensus_2000-01_12_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-water-distribution-system-and-potential/download
+micensus_2006-07_12_dugwell.csv
+
+13. District wise Distribution of Dugwells by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-dugwells-cost-maintenance-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_13_dugwell.csv
+
+14. District wise culturable command area and potential created through dugwells
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-dugwells-2nd-census/download
+micensus_1993-94_14_dugwell.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-dugwells-3rd-census/download
+micensus_2000-01_14_dugwell.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-dugwell-4th-minor-irrigation/download
+micensus_2006-07_14_dugwell.csv
+
+15. District wise dugwells average length of water conveyance channel
+https://data.gov.in/resources/district-wise-dugwells-average-length-water-conveyance-channel-2nd-census-minor-irrigation/download
+micensus_1993-94_15_dugwell.csv
+
+16. District wise distribution of dugwells according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-average-pumping-hours-3rd-census-minor/download
+micensus_2000-01_16_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-average-hours-pumping-day-4th-minor/download
+micensus_2006-07_16_dugwell.csv
+
+17. District wise Distribution of Dugwells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-energy-4th-minor-irrigation-census/download
+micensus_2006-07_17_dugwell.csv
+
+18. District wise distribution of dugwells according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-farmers-holding-size-3rd-census-minor/download
+micensus_2000-01_18_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-holding-size-2nd-census-minor-irrigation/download
+micensus_1993-94_18_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownerships-holding-size-4th-minor-irrigation/download
+micensus_2006-07_18_dugwell.csv
+
+19. District wise distribution of dugwells according to horse power of lifting device
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-horse-power-lifting-device-3rd-census-minor/download
+micensus_2000-01_19_dugwell.csv
+https://data.gov.in/resources/district-wise-dugwells-according-horse-power-lifting-device-2nd-census-minor-irrigation/download
+micensus_1993-94_19_dugwell.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-horse-power-lifting-device-4th-minor/download
+micensus_2006-07_19_dugwell.csv
+
+20. District wise Distribution of Dugwells according to depth of the Dugwells
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-depth-dugwell-4th-minor-irrigation-census/download
+micensus_2006-07_20_dugwell.csv
+
+21. District wise distribution of dugwells in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-dugwells-use-according-utilization-potential-created-3rd-census/download
+micensus_2000-01_21_dugwell.csv
+
+22. District wise Distribution of Dugwells according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-total-hours-pumping-operation-4th-minor/download
+micensus_2006-07_22_dugwell.csv
+
+23. District wise Distribution of Dugwells permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-dugwells-permanently-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_23_dugwell.csv
+
+24. District wise dugwells in the command of major/medium projects and average pumping hours
+https://data.gov.in/resources/district-wise-dugwells-command-majormedium-projects-and-average-pumping-hours-2nd-census/download
+micensus_1993-94_24_dugwell.csv
+
+25. District wise Distribution of Dugwells by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-dugwells-location-command-majormedium-projects-4th-minor/download
+micensus_2006-07_25_dugwell.csv
+
+26. District wise Distribution of Dugwells temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-dugwells-temporary-not-use-reasons-4th-minor-irrigation-census/download
+micensus_2006-07_26_dugwell.csv
+
+27. District wise distribution of dugwells in use and their potential created/utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-dugwells-use-and-their-potential-createdutilized-according/download
+micensus_2000-01_27_dugwell.csv
+
+

@@ -1,0 +1,156 @@
+1. District wise irrigation through supplementary sources under surface flow schemes
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-under-surface-flow-schemes-2nd/download
+micensus_1993-94_1_surfaceflow.csv
+
+2. District wise surface flow schemes in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-surface-flow-schemes-command-majormedium-projects-and-supplementary/download
+micensus_2000-01_2_surfaceflow.csv
+
+3. District wise potential utilized under surface flow schemes
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-under-surface-flow-schemes-2nd-census-minor/download
+micensus_1993-94_3_surfaceflow.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-surface-flow-schemes-3rd-census-minor-irrigation/download
+micensus_2000-01_3_surfaceflow.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-surface-flow-schemes-4th-minor/download
+micensus_2006-07_3_surfaceflow.csv
+
+4. District wise distribution of surface flow schemes by type
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-its-type-2nd-census-minor-irrigation/download
+micensus_1993-94_4_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-type-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_4_surfaceflow.csv
+https://data.gov.in/resources/district-wise-number-surface-flow-schemes-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_4_surfaceflow.csv
+
+5. District wise construction of surface flow schemes over the years
+https://data.gov.in/resources/district-wise-construction-surface-flow-schemes-over-years-3rd-census-minor-irrigation/download
+micensus_2000-01_5_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-constructed-over-years-2nd-census-minor/download
+micensus_1993-94_5_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_5_surfaceflow.csv
+
+6. District wise distribution of surface flow schemes according to ownership
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-3rd-census-minor/download
+micensus_2000-01_6_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-2nd-census-minor/download
+micensus_1993-94_6_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-4th-minor-irrigation/download
+micensus_2006-07_6_surfaceflow.csv
+
+7. District wise distribution of surface flow schemes by status
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-its-status-2nd-census-minor-irrigation/download
+micensus_1993-94_7_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-status-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_7_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-status-utilisation-4th-minor-irrigation/download
+micensus_2006-07_7_surfaceflow.csv
+
+8. District wise surface flow schemes according to water distribution system
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_8_surfaceflow.csv
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_8_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-water-distribution-system-and/download
+micensus_2006-07_8_surfaceflow.csv
+
+9. District wise surface flow schemes according to the constraints
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-constraints-2nd-census-minor-irrigation/download
+micensus_1993-94_9_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-constraints-utilisation/download
+micensus_2006-07_9_surfaceflow.csv
+
+10. District wise distribution of surface flow schemes according to social status
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-3rd-census-minor/download
+micensus_2000-01_10_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-2nd-census-minor/download
+micensus_1993-94_10_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-owner-4th-minor/download
+micensus_2006-07_10_surfaceflow.csv
+
+11. District wise surface flow schemes average length of water conveyance channel
+https://data.gov.in/resources/district-wise-surface-flow-schemes-average-length-water-conveyance-channel-2nd-census/download
+micensus_1993-94_11_surfaceflow.csv
+
+12. District wise culturable command area and potential created through surface flow scheme
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-flow-scheme/download
+micensus_1993-94_12_surfaceflow.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-flow-schemes/download
+micensus_2000-01_12_surfaceflow.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-surface-flow-schemes-4th-minor/download
+micensus_2006-07_12_surfaceflow.csv
+
+13. District wise distribution of surface flow schemes according to source of finance
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-finance-source-2nd-census-minor/download
+micensus_1993-94_13_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-source-finance-3rd-census-minor/download
+micensus_2000-01_13_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-source-finance-4th-minor/download
+micensus_2006-07_13_surfaceflow.csv
+
+14. District wise distribution of surface flow schemes according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-farmers-holding-size-3rd-census/download
+micensus_2000-01_14_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-holding-size-2nd-census-minor/download
+micensus_1993-94_14_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownerships-holding-size-4th/download
+micensus_2006-07_14_surfaceflow.csv
+
+15. District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by storage size
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-storage-size-4th-minor/download
+micensus_2006-07_15_surfaceflow.csv
+
+16. District wise surface flow schemes in the major/medium project command
+https://data.gov.in/resources/district-wise-surface-flow-schemes-majormedium-project-command-2nd-census-minor-irrigation/download
+micensus_1993-94_16_surfaceflow.csv
+
+17. District wise surface flow schemes- potential created and utilized through tanks
+https://data.gov.in/resources/district-wise-surface-flow-schemes-potential-created-and-utilized-through-tanks-3rd-census/download
+micensus_2000-01_17_surfaceflow.csv
+
+18. District wise distribution of surface flow schemes in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-use-according-utilization-potential/download
+micensus_2000-01_18_surfaceflow.csv
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes-use-and-pc/download
+micensus_2006-07_18_surfaceflow.csv
+
+19. District wise Distribution of surface flow schemes by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-cost-maintenance-4th-minor-irrigation/download
+micensus_2006-07_19_surfaceflow.csv
+
+20. District wise Distribution of surface flow schemes permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-permanently-not-use-reasons-4th-minor/download
+micensus_2006-07_20_surfaceflow.csv
+
+21. District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by CCA classes
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes-4th-minor/download
+micensus_2006-07_21_surfaceflow.csv
+
+22. District wise Distribution of surface flow schemes temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-temporary-not-use-reasons-4th-minor/download
+micensus_2006-07_22_surfaceflow.csv
+
+23. District wise Distribution of surface flow schemes by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-location-command-majormedium-projects-4th/download
+micensus_2006-07_23_surfaceflow.csv
+
+24. District wise distribution of surface flow schemes(tanks) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemestanks-use-and-their-potential-created-and/download
+micensus_2000-01_24_surfaceflow.csv
+
+25. District wise distribution of surface flow schemes in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemeswater-conservation-cum-ground-water/download
+micensus_2000-01_25_surfaceflow.csv
+
+26. District wise distribution of surface flow schemes(other storage) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemesother-storage-use-and-their-potential/download
+micensus_2000-01_26_surfaceflow.csv
+
+27. District wise distribution of surface flow schemes(permanent diversion) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemespermanent-diversion-use-and-their-potential/download
+micensus_2000-01_27_surfaceflow.csv
+
+28. District wise distribution of surface flow schemes(temporary diversion) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemestemporary-diversion-use-and-their-potential/download
+micensus_2000-01_28_surfaceflow.csv
+

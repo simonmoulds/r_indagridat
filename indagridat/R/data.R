@@ -1,6 +1,6 @@
 #' District level agricultural statistics for India
 #'
-#' Dataset containing various.. TODO
+#' Dataset containing various... TODO
 #'
 #' @format A data.frame
 #'
@@ -11,7 +11,7 @@
 
 #' Aggregated district level agricultural statistics for India
 #'
-#' Dataset containing various.. TODO
+#' Dataset containing various... TODO
 #'
 #' @format A data.frame
 #'
@@ -22,7 +22,7 @@
 
 #' ICRISAT...
 #'
-#' Dataset containing various.. TODO
+#' Dataset containing various... TODO
 #'
 #' @format A data.frame
 #'
@@ -33,7 +33,7 @@
 
 #' Aggregated ICRISAT...
 #'
-#' Dataset containing various.. TODO
+#' Dataset containing various... TODO
 #'
 #' @format A data.frame
 #'
@@ -41,3 +41,14 @@
 #'
 #' data(icrisat1950)
 "icrisat1950"
+
+## # Combined Indiastat and ICRISAT data... TODO
+## #
+## # Dataset containing various... TODO
+## #
+## # format A data.frame
+## #
+## # examples
+## #
+## # data(combined1950)
+## "combined1950"

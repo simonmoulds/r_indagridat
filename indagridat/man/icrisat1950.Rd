@@ -9,7 +9,7 @@
 icrisat1950
 }
 \description{
-Dataset containing various.. TODO
+Dataset containing various... TODO
 }
 \examples{
 data(icrisat1950)

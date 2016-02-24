@@ -1,0 +1,804 @@
+1. District wise irrigation through supplementary sources with dugwells
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-dugwells-2nd-census-minor/download
+micensus_1993-94_1.csv
+
+2. District wise irrigation through supplementary sources under surface flow schemes
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-under-surface-flow-schemes-2nd/download
+micensus_1993-94_2.csv
+
+3. District wise irrigation through supplementary sources under surface lift schemes
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-under-surface-lift-schemes-2nd/download
+micensus_1993-94_3.csv
+
+4. District wise distribution of deep tubewells according to irrigation through supplementary source
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-irrigation-through-supplementary/download
+micensus_1993-94_4.csv
+
+5. District wise distribution of shallow tubewells according to irrigation through supplementary source
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-irrigation-through-supplementary/download
+micensus_1993-94_5.csv
+
+6. District wise dugwells in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-dugwells-command-majormedium-projects-and-supplementary-irrigation-3rd/download
+micensus_2000-01_6.csv
+
+7. District wise deep tubewells in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-deep-tubewells-command-majormedium-projects-and-supplementary-irrigation-3rd/download
+micensus_2000-01_7.csv
+
+8. District wise shallow tubewells in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-shallow-tubewells-command-majormedium-projects-and-supplementary-irrigation/download
+micensus_2000-01_8.csv
+
+9. District wise surface flow schemes in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-surface-flow-schemes-command-majormedium-projects-and-supplementary/download
+micensus_2000-01_9.csv
+
+10. District wise surface lift schemes in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-surface-lift-schemes-command-majormedium-projects-and-supplementary/download
+micensus_2000-01_10.csv
+
+11. District wise potential utilized through deep tubewells
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-deep-tubewells-2nd-census-minor/download
+micensus_1993-94_11.csv
+
+12. District wise potential utilized through dugwells
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-dugwells-2nd-census-minor-irrigation/download
+micensus_1993-94_12.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-dugwells-3rd-census-minor-irrigation-scheme-2000/download
+micensus_2000-01_12.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-dugwell-4th-minor-irrigation-census/download
+micensus_2006-07_12.csv
+
+13. District wise potential utilized through shallow tubewells
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-shallow-tubewells-2nd-census-minor/download
+micensus_1993-94_13.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-shallow-tubewells-3rd-census-minor-irrigation/download
+micensus_2000-01_13.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-shallow-tubewells-4th-minor/download
+micensus_2006_07_13.csv
+
+14. District wise distribution of dugwells by status
+https://data.gov.in/resources/district-wise-distribution-dugwells-its-status-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_14.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-status-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_14.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-status-utilisation-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_14.csv
+
+15. District wise distribution of dugwells by type
+https://data.gov.in/resources/district-wise-distribution-dugwells-its-type-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_15.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-type-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_15.csv
+https://data.gov.in/resources/district-wise-number-dugwells-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_15.csv
+
+16. District wise dugwells according to the constraints
+https://data.gov.in/resources/district-wise-dugwells-according-constraints-2nd-census-minor-irrigation-schemes-1993-94/download
+micensus_1993-94_16.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-constraints-utilisation-potential-4th-minor/download
+micensus_2006-07_16.csv
+
+17. District wise potential utilized through surface lift schemes
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-surface-lift-schemes-2nd-census-minor/download
+micensus_1993-94_17.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-lift-schemes-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_17.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-surface-lift-schemes-4th-minor/download
+micensus_2006-07_17.csv
+
+18. District wise potential utilized under surface flow schemes
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-under-surface-flow-schemes-2nd-census-minor/download
+micensus_1993-94_18.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-surface-flow-schemes-3rd-census-minor-irrigation/download
+micensus_2000-01_18.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-surface-flow-schemes-4th-minor/download
+micensus_2006-07_18.csv
+
+19. District wise construction of dugwells over the years
+https://data.gov.in/resources/district-wise-construction-dugwells-over-years-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_19.csv
+https://data.gov.in/resources/district-wise-construction-dugwells-over-years-3rd-census-minor-irrigation-scheme-2000-01/download
+micensus_2000-01_19.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-and-cost-construction-over-year-4th-minor-irrigation/download
+micensus_2006-07_19.csv
+
+20. District wise distribution of deep tubewells according to ownership
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-2nd-census-minor-irrigation/download
+micensus_1993-94_20.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-3rd-census-minor-irrigation/download
+micensus_2000-01_20.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-4th-minor-irrigation-census/download
+micensus_2006-07_20.csv
+
+21. District wise distribution of deep tubewells by status
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-2nd-census-minor-irrigation-schemes-1993/download
+micensus_1993-94_21.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-3rd-census-minor-irrigation-scheme-2000/download
+micensus_2000-01_21.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-utilisation-4th-minor-irrigation-census/download
+micensus_2006-07_21.csv
+
+22. District wise distribution of dugwells according to ownership
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-2nd-census-minor-irrigation/download
+micensus_1993-94_22.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_22.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownership-4th-minor-irrigation-census-2006/download
+micensus_2006-07_22.csv
+
+23. District wise distribution of dugwells according to social status
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-2nd-census-minor-irrigation/download
+micensus_1993-94_23.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-3rd-census-minor-irrigation/download
+micensus_2000-01_23.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-social-status-owner-4th-minor-irrigation/download
+micensus_2006-07_23.csv
+
+24. District wise distribution of dugwells according to source of finance
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-finance-source-2nd-census-minor-irrigation/download
+micensus_1993-94_24.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-finance-3rd-census-minor-irrigation/download
+micensus_2000-01_24.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-finance-4th-minor-irrigation-census/download
+micensus_2006-07_24.csv
+
+25. District wise distribution of dugwells according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-water-lifting-device-3rd-census-minor/download
+micensus_1993-94_25.csv
+https://data.gov.in/resources/district-wise-dugwells-according-water-lifting-device-2nd-census-minor-irrigation-schemes/download
+micensus_2000-01_25.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-lifting-devices-4th-minor-irrigation-census/download
+micensus_2006-07_25.csv
+
+26. District wise distribution of shallow tubewells according to ownership
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-ownership-2nd-census-minor/download
+micensus_1993-94_26.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-ownership-3rd-census-minor/download
+micensus_2000-01_26.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-ownership-4th-minor-irrigation/download
+micensus_2006-07_26.csv
+
+27. District wise distribution of shallow tubewells by status
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-status-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_27.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-status-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_27.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-status-utilisation-4th-minor-irrigation/download
+micensus_2006-07_27.csv
+
+28. District wise distribution of shallow tubewells by type
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-type-2nd-census-minor-irrigation-schemes-1993/download
+micensus_1993-94_28.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-type-3rd-census-minor-irrigation-scheme-2000/download
+micensus_2000-01_28.csv
+https://data.gov.in/resources/district-wise-number-shallow-tubewells-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_28.csv
+
+29. District wise distribution of surface flow schemes by type
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-its-type-2nd-census-minor-irrigation/download
+micensus_1993-94_29.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-type-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_29.csv
+https://data.gov.in/resources/district-wise-number-surface-flow-schemes-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_29.csv
+
+30. District wise distribution of surface lift schemes by type
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-its-type-2nd-census-minor-irrigation/download
+micensus_1993-94_30.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-type-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_30.csv
+https://data.gov.in/resources/district-wise-number-surface-lift-schemes-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_30.csv
+
+31. District wise dugwells according to water distribution system
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-2nd-census-minor-irrigation/download
+micensus_1993-94_31.csv
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-3rd-census-minor-irrigation/download
+micensus_2000-01_31.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-water-distribution-system-and-potential/download
+micensus_2006-07_31.csv
+
+32. District wise Distribution of Dugwells by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-dugwells-cost-maintenance-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_32.csv
+
+33. District wise culturable command area and potential created through dugwells
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-dugwells-2nd-census/download
+micensus_1993-94_33.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-dugwells-3rd-census/download
+micensus_2000-01_33.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-dugwell-4th-minor-irrigation/download
+micensus_2006-07_33.csv
+
+34. District wise construction of deep tubewells over the years
+https://data.gov.in/resources/district-wise-construction-deep-tubewells-over-years-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_34.csv
+https://data.gov.in/resources/district-wise-construction-deep-tubewells-over-years-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_34.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_34.csv
+
+35. District wise construction of shallow tubewells over the years
+https://data.gov.in/resources/district-wise-construction-shallow-tubewells-over-years-2nd-census-minor-irrigation/download
+micensus_1993-94_35.csv
+https://data.gov.in/resources/district-wise-construction-shallow-tubewells-over-years-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_35.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_35.csv
+
+36. District wise construction of surface flow schemes over the years
+https://data.gov.in/resources/district-wise-construction-surface-flow-schemes-over-years-3rd-census-minor-irrigation/download
+micensus_2000-01_36.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-constructed-over-years-2nd-census-minor/download
+micensus_1993-94_36.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_36.csv
+
+37. District wise construction of surface lift schemes over the years
+https://data.gov.in/resources/district-wise-construction-surface-lift-schemes-over-years-3rd-census-minor-irrigation/download
+micensus_2000-01_37.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-construction-over-years-2nd/download
+micensus_1993-94_37.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_37.csv
+
+38. District wise deep tubewells according to water distribution system
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_38.csv
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_38.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_38.csv
+
+39. District wise distribution of deep tubewells according to social status
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-2nd-census-minor/download
+micensus_1993-94_39.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-3rd-census-minor/download
+micensus_2000-01_39.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-owner-4th-minor/download
+micensus_2006-07_39.csv
+
+40. District wise distribution of shallow tubewells according to social status
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-social-status-2nd-census-minor/download
+micensus_1993-94_40.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-social-status-3rd-census-minor/download
+micensus_2000-01_40.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-social-status-owner-4th-minor/download
+micensus_2006-07_40.csv
+
+41. District wise distribution of surface flow schemes according to ownership
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-3rd-census-minor/download
+micensus_2000-01_41.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-2nd-census-minor/download
+micensus_1993-94_41.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownership-4th-minor-irrigation/download
+micensus_2006-07_41.csv
+
+42. District wise distribution of surface flow schemes by status
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-its-status-2nd-census-minor-irrigation/download
+micensus_1993-94_42.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-status-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_42.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-status-utilisation-4th-minor-irrigation/download
+micensus_2006-07_42.csv
+
+43. District wise distribution of surface lift schemes according to horsepower
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horse-power-lifting-device-3rd/download
+micensus_2000-01_43.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horsepower-2nd-census-minor/download
+micensus_1993-94_43.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horse-power-lifting-device-4th/download
+micensus_2006-07_43.csv
+
+44. District wise distribution of surface lift schemes according to ownership
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-3rd-census-minor/download
+micensus_2000-01_44.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-2nd-census-minor/download
+micensus_1993-94_44.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-4th-minor-irrigation/download
+micensus_2006-07_44.csv
+
+45. District wise distribution of surface lift schemes by status
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-its-status-2nd-census-minor-irrigation/download
+micensus_1993-94_45.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-status-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_45.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-status-utilisation-4th-minor-irrigation/download
+micensus_2006-07_45.csv
+
+46. District wise shallow tubewells according to water distribution system
+https://data.gov.in/resources/district-wise-shallow-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_46.csv
+https://data.gov.in/resources/district-wise-shallow-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_46.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_46.csv
+
+47. District wise surface flow schemes according to water distribution system
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_47.csv
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_47.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-water-distribution-system-and/download
+micensus_2006-07_47.csv
+
+48. District wise surface lift schemes according to water distribution system
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_48.csv
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_48.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-water-distribution-system-and/download
+micensus_2006-07_48.csv
+
+49. District wise distribution of deep tubewells by type
+https://data.gov.in/resources/district-wise-number-deep-tubewells-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_49.csv
+
+50. District wise dugwells average length of water conveyance channel
+https://data.gov.in/resources/district-wise-dugwells-average-length-water-conveyance-channel-2nd-census-minor-irrigation/download
+micensus_1993-94_50.csv
+
+51. District wise distribution of deep tubewells according to the constraints
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-constraints-2nd-census-minor/download
+micensus_1993-94_51.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-constraints-utilisation-potential-4th/download
+micensus_2006-07_51.csv
+
+52. District wise distribution of dugwells according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-average-pumping-hours-3rd-census-minor/download
+micensus_2000-01_52.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-average-hours-pumping-day-4th-minor/download
+micensus_2006-07_52.csv
+
+53. District wise distribution of shallow tubewells according to the constraints
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-constraints-2nd-census-minor/download
+micensus_1993-94_53.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-constraints-utilisation-potential/download
+micensus_2006-07_53.csv
+
+54. District wise surface flow schemes according to the constraints
+https://data.gov.in/resources/district-wise-surface-flow-schemes-according-constraints-2nd-census-minor-irrigation/download
+micensus_1993-94_54.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-constraints-utilisation/download
+micensus_2006-07_54.csv
+
+55. District wise surface lift schemes according to the constraints
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-constraints-2nd-census-minor-irrigation/download
+micensus_1993-94_55.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-constraints-utilisation/download
+micensus_2006-07_55.csv
+
+56. District wise distribution of deep tubewells by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-cost-maintenance-4th-minor-irrigation-census/download
+micensus_2006-07_56.csv
+
+57. District wise Distribution of Lift Schemes by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-cost-maintenance-4th-minor-irrigation/download
+micensus_2006-07_57.csv
+
+58. District wise Distribution of shallow tubewells by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-cost-maintenance-4th-minor-irrigation-census/download
+micensus_2006-07_58.csv
+
+59. District wise Distribution of Dugwells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-energy-4th-minor-irrigation-census/download
+micensus_2006-07_59.csv
+
+60. District wise distribution of dugwells according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-farmers-holding-size-3rd-census-minor/download
+micensus_2000-01_60.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-holding-size-2nd-census-minor-irrigation/download
+micensus_1993-94_60.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-ownerships-holding-size-4th-minor-irrigation/download
+micensus_2006-07_60.csv
+
+61. District wise culturable command area and potential created through deep tubewells
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-deep-tubewells-2nd/download
+micensus_1993-94_61.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-deep-tubewells-3rd/download
+micensus_2000-01_61.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-deep-tubewell-4th-minor/download
+micensus_2006-07_61.csv
+
+62. District wise culturable command area and potential created through shallow tubewells
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-shallow-tubewells-2nd/download
+micensus_1993-94_62.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-shallow-tubewells-3rd/download
+micensus_2000-01_62.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-shallow-tubewells-4th-minor/download
+micensus_2006-07_62.csv
+
+63. District wise distribution of deep tubewells according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-pumping-hours-3rd-census-minor/download
+micensus_2000-01_63.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-pumping-hours-during-peak/download
+micensus_1993-94_63.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-hours-pumping-day-4th-minor/download
+micensus_2006-07_63.csv
+
+64. District wise distribution of deep tubewells according to source of finance
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-2nd-census-minor/download
+micensus_1993-94_64.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-3rd-census-minor/download
+micensus_2000-01_64.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-4th-minor-irrigation/download
+micensus_2006-07_64.csv
+
+65. District wise distribution of deep tubewells according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-lifting-device-2nd-census-minor/download
+micensus_1993-94_65.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-lifting-device-3rd-census-minor/download
+micensus_2000-01_65.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-lifting-devices-4th-minor-irrigation/download
+micensus_2006-07_65.csv
+
+66. District wise distribution of shallow tubewells according to source of finance
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-source-finance-2nd-census-minor/download
+micensus_1993-94_66.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-source-finance-3rd-census-minor/download
+micensus_2000-01_66.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-source-finance-4th-minor-irrigation/download
+micensus_2006-07_66.csv
+
+67. District wise distribution of shallow tubewells according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-water-lifting-device-2nd-census/download
+micensus_1993-94_67.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-water-lifting-device-3rd-census/download
+micensus_2000-01_67.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-lifting-devices-4th-minor/download
+micensus_2006-07_67.csv
+
+68. District wise distribution of surface flow schemes according to social status
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-3rd-census-minor/download
+micensus_2000-01_68.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-2nd-census-minor/download
+micensus_1993-94_68.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-social-status-owner-4th-minor/download
+micensus_2006-07_68.csv
+
+69. District wise distribution of surface lift schemes according to social status
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-3rd-census-minor/download
+micensus_2000-01_69.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-2nd-census-minor/download
+micensus_1993-94_69.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-owner-4th-minor/download
+micensus_2006-07_69.csv
+
+70. District wise surface flow schemes average length of water conveyance channel
+https://data.gov.in/resources/district-wise-surface-flow-schemes-average-length-water-conveyance-channel-2nd-census/download
+micensus_1993-94_70.csv
+
+71. District wise distribution of shallow tubewells according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-average-pumping-hours-3rd-census/download
+micensus_2000-01_71.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-average-hours-pumping-day-4th-minor/download
+micensus_2006-07_71.csv
+
+72. District wise culturable command area and potential created through surface flow scheme
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-flow-scheme/download
+micensus_1993-94_72.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-flow-schemes/download
+micensus_2000-01_72.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-surface-flow-schemes-4th-minor/download
+micensus_2006-07_72.csv
+
+73. District wise culturable command area and potential created through surface lift schemes
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-lift-schemes/download
+micensus_2000-01_73.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-lift-schemes-0/download
+micensus_1993-94_73.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-surface-lift-schemes-4th-minor/download
+micensus_2006-07_73.csv
+
+74. District wise distribution of deep tubewells according to horse power of lifting device
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-2nd-census/download
+micensus_1993-94_74.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-3rd-census/download
+micensus_2000-01_74.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-4th-minor/download
+micensus_2006-07_74.csv
+
+75. District wise distribution of deep tubewells according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-farmers-holding-size-2nd-census-minor/download
+micensus_1993-94_75.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-farmers-holding-size-3rd-census-minor/download
+micensus_2000-01_75.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownerships-holding-size-4th-minor/download
+micensus_2006-07_75.csv
+
+76. District wise distribution of dugwells according to horse power of lifting device
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-horse-power-lifting-device-3rd-census-minor/download
+micensus_2000-01_76.csv
+https://data.gov.in/resources/district-wise-dugwells-according-horse-power-lifting-device-2nd-census-minor-irrigation/download
+micensus_1993-94_76.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-horse-power-lifting-device-4th-minor/download
+micensus_2006-07_76.csv
+
+77. District wise distribution of shallow tubewells according to horse power of lifting device
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-horse-power-lifting-device-2nd/download
+micensus_1993-94_77.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-horse-power-lifting-device-3rd/download
+micensus_2000-01_77.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-horse-power-lifting-device-4th/download
+micensus_2006-07_77.csv
+
+78. District wise distribution of shallow tubewells according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-farmers-holding-size-2nd-census/download
+micensus_1993-94_78.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-farmers-holding-size-3rd-census/download
+micensus_2000-01_78.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-ownerships-holding-size-4th-minor/download
+micensus_2006-07_78.csv
+
+79. District wise distribution of surface flow schemes according to source of finance
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-finance-source-2nd-census-minor/download
+micensus_1993-94_79.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-source-finance-3rd-census-minor/download
+micensus_2000-01_79.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-source-finance-4th-minor/download
+micensus_2006-07_79.csv
+
+80. District wise distribution of surface flow schemes according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-farmers-holding-size-3rd-census/download
+micensus_2000-01_80.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-holding-size-2nd-census-minor/download
+micensus_1993-94_80.csv
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-according-ownerships-holding-size-4th/download
+micensus_2006-07_80.csv
+
+81. District wise distribution of surface lift schemes according to source of finance
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-finance-3rd-census-minor/download
+micensus_2000-01_81.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-finance-sources-2nd-census-minor/download
+micensus_1993-94_81.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-finance-4th-minor/download
+micensus_2006-07_81.csv
+
+82. District wise distribution of surface lift schemes according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-farmers-holding-size-3rd-census/download
+micensus_2000-01_82.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-holding-size-2nd-census-minor/download
+micensus_1993-94_82.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownerships-holding-size-4th/download
+micensus_2006-07_82.csv
+
+83. District wise distribution of surface lift schemes according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-lifting-device-2nd-census-minor/download
+micensus_1993-94_83.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-water-lifting-device-3rd-census/download
+micensus_2000-01_83.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-lifting-devices-4th-minor/download
+micensus_2006-07_83.csv
+
+84. District wise average length of water conveyance channel of surface lift schemes
+https://data.gov.in/resources/district-wise-average-length-water-conveyance-channel-surface-lift-schemes-2nd-census/download
+micensus_1993-94_84.csv
+
+85. District wise distribution of deep tubewells according to average length of water conveyance channel
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-length-water-conveyance/download
+micensus_1993-94_85.csv
+
+86. District wise distribution of deep tubewells in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-use-according-utilization-potential-created-3rd/download
+micensus_2000-01_86.csv
+
+87. District wise Distribution of Dugwells according to depth of the Dugwells
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-depth-dugwell-4th-minor-irrigation-census/download
+micensus_2006-07_87.csv
+
+88. District wise distribution of dugwells in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-dugwells-use-according-utilization-potential-created-3rd-census/download
+micensus_2000-01_88.csv
+
+89. District wise distribution of shallow tubewells according to average length of water conveyance channel
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-average-length-water-conveyance/download
+micensus_1993-94_89.csv
+
+90. District wise Distribution of Shallow Tubewells according to depth of the Dugwell
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-depth-dugwell-4th-minor-irrigation/download
+micensus_2006-07_90.csv
+
+91. District wise distribution of shallow tubewells in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-use-according-utilization-potential-created/download
+micensus_2000-01_91.csv
+
+92. District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by storage size
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-storage-size-4th-minor/download
+micensus_2006-07_92.csv
+
+93. District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by storage size
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-storage-size-4th-minor/download
+micensus_2006-07_93.csv
+
+94. District wise surface flow schemes in the major/medium project command
+https://data.gov.in/resources/district-wise-surface-flow-schemes-majormedium-project-command-2nd-census-minor-irrigation/download
+micensus_1993-94_94.csv
+
+95. District wise surface flow schemes- potential created and utilized through tanks
+https://data.gov.in/resources/district-wise-surface-flow-schemes-potential-created-and-utilized-through-tanks-3rd-census/download
+micensus_2000-01_95.csv
+
+96. District-wise distribution of deep tubewell according to depth of the deep tubewells
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-depth-deep-tubewell-4th-minor/download
+micensus_2006-07_96.csv
+
+97. District wise distribution of surface flow schemes in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-use-according-utilization-potential/download
+micensus_2000-01_97.csv
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes-use-and-pc/download
+micensus_2006-07_97.csv
+
+98. District wise distribution of surface lift schemes according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-average-pumping-hours-3rd-census/download
+micensus_2000-01_98.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-average-hours-pumping-day-4th/download
+micensus_2006-07_98.csv
+
+99. District wise distribution of surface lift schemes in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-use-according-utilization-potential/download
+micensus_2000-01_99.csv
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-cca-classes-use-and-pc/download
+micensus_2006-07_99.csv
+
+100. District wise distribution of deep tubewells according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-total-hours-pumping-operation-4th/download
+micensus_2006-07_100.csv
+
+101. District wise distribution of deep tubewells permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-permanently-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_101.csv
+
+102. District wise Distribution of Dugwells according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-total-hours-pumping-operation-4th-minor/download
+micensus_2006-07_102.csv
+
+103. District wise Distribution of Dugwells permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-dugwells-permanently-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_103.csv
+
+104. District wise Distribution of Lift Schemes according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-total-hours-pumping-operation/download
+micensus_2006-07_104.csv
+
+105. District wise Distribution of Lift Schemes permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-permanently-not-use-reasons-4th-minor/download
+micensus_2006-07_105.csv
+
+106. District wise Distribution of shallow tubewells according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-total-hours-pumping-operation-4th/download
+micensus_2006-07_106.csv
+
+107. District wise Distribution of surface flow schemes by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-cost-maintenance-4th-minor-irrigation/download
+micensus_2006-07_107.csv
+
+108. District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by CCA classes
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-cca-classes-4th-minor/download
+micensus_2006-07_108.csv
+
+109. District wise dugwells in the command of major/medium projects and average pumping hours
+https://data.gov.in/resources/district-wise-dugwells-command-majormedium-projects-and-average-pumping-hours-2nd-census/download
+micensus_1993-94_109.csv
+
+110. District wise distribution of deep tubewells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-energy-4th-minor-irrigation/download
+micensus_2006-07_110.csv
+
+111. District wise distribution of deep tubewells temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-temporary-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_111.csv
+
+112. District wise Distribution of Dugwells by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-dugwells-location-command-majormedium-projects-4th-minor/download
+micensus_2006-07_112.csv
+
+113. District wise Distribution of Dugwells temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-dugwells-temporary-not-use-reasons-4th-minor-irrigation-census/download
+micensus_2006-07_113.csv
+
+114. District wise Distribution of Lift Schemes according to source of energy
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-energy-4th-minor/download
+micensus_2006-07_114.csv
+
+115. District wise Distribution of shallow tubewells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-source-energy-4th-minor-irrigation/download
+micensus_2006-07_115.csv
+
+116. District wise Distribution of shallow tubewells permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-permanently-not-use-reasons-4th-minor/download
+micensus_2006-07_116.csv
+
+117. District wise Distribution of shallow tubewells temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-temporary-not-use-reasons-4th-minor/download
+micensus_2006-07_117.csv
+
+118. District wise Distribution of surface flow schemes permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-permanently-not-use-reasons-4th-minor/download
+micensus_2006-07_118.csv
+
+119. District wise Distribution of Tanks/Ponds/Reservoir of surface flow schemes by CCA classes
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-flow-schemes-cca-classes-4th-minor/download
+micensus_2006-07_119.csv
+
+120. District wise Distribution of Lift Schemes temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-temporary-not-use-reasons-4th-minor/download
+micensus_2006-07_120.csv
+
+121. District wise Distribution of surface flow schemes temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-temporary-not-use-reasons-4th-minor/download
+micensus_2006-07_121.csv
+
+122. District wise distribution of deep tubewells by location in the command of major/medium projects
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-location-command-majormedium-projects-4th-minor/download
+micensus_2006-07_122.csv
+
+123. District wise Distribution of shallow tubewells by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-location-command-majormedium-projects-4th/download
+micensus_2006-07_123.csv
+
+124. District wise distribution of deep tubewells in use and their potential created/utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-use-and-their-potential-createdutilized/download
+micensus_2000-01_124.csv
+
+125. District wise distribution of dugwells in use and their potential created/utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-dugwells-use-and-their-potential-createdutilized-according/download
+micensus_2000-01_125.csv
+
+126. District wise distribution of shallow tubewells according to major/medium projects and average pumping hours
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-majormedium-projects-and-average/download
+micensus_1993-94_126.csv
+
+127. District wise distribution of shallow tubewells in use and their potential created/utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-use-and-their-potential-createdutilized/download
+micensus_2000-01_127.csv
+
+128. District wise surface lift schemes in the command of major/medium projects and average pumping hours
+https://data.gov.in/resources/district-wise-surface-lift-schemes-command-majormedium-projects-and-average-pumping-hours/download
+micensus_1993-94_128.csv
+
+129. District wise Distribution of Lift Schemes by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-location-command-majormedium-projects-4th/download
+micensus_2006-07_129.csv
+
+130. District wise Distribution of surface flow schemes by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemes-location-command-majormedium-projects-4th/download
+micensus_2006-07_130.csv
+
+131. District wise distribution of surface flow schemes(tanks) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemestanks-use-and-their-potential-created-and/download
+micensus_2000-01_131.csv
+
+132. District wise distribution of surface flow schemes in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemeswater-conservation-cum-ground-water/download
+micensus_2000-01_132.csv
+
+133. District wise distribution of surface flow schemes(other storage) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemesother-storage-use-and-their-potential/download
+micensus_2000-01_133.csv
+
+134. District wise distribution of surface flow schemes(permanent diversion) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemespermanent-diversion-use-and-their-potential/download
+micensus_2000-01_134.csv
+
+135. District wise distribution of surface flow schemes(temporary diversion) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-flow-schemestemporary-diversion-use-and-their-potential/download
+micensus_2000-01_135.csv
+
+136. District wise distribution of surface lift schemes(on drain/canal) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-draincanal-use-and-their-potential/download
+micensus_2000-01_136.csv
+
+137. District wise distribution of surface lift schemes(on river) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-river-use-and-their-potential-created/download
+micensus_2000-01_137.csv
+
+138. District wise distribution of surface lift schemes(on stream) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-stream-use-and-their-potential-created/download
+micensus_2000-01_138.csv
+
+139. District wise distribution of surface lift schemes(on tank/pond) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-tankpond-use-and-their-potential-created/download
+micensus_2000-01_139.csv
+

@@ -1,0 +1,35 @@
+1. District wise dugwells according to water distribution system
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-2nd-census-minor-irrigation/download
+micensus_1993-94_districtwise_dugwell_distrsys.csv
+https://data.gov.in/resources/district-wise-dugwells-according-water-distribution-system-3rd-census-minor-irrigation/download
+micensus_2000-01_districtwise_dugwell_distrsys.csv
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-water-distribution-system-and-potential/download
+micensus_2006-07_districtwise_dugwell_distrsys.csv
+
+2. District wise Distribution of Dugwells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-dugwells-according-source-energy-4th-minor-irrigation-census/download
+micensus_2006-07_districtwise_dugwell_energysrc.csv
+
+3. District wise deep tubewells according to water distribution system
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_districtwise_deeptubewell_distrsys.csv
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_districtwise_deeptubewell_distrsys.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_districtwise_deeptubewell_distrsys.csv
+
+4. District wise distribution of deep tubewells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-energy-4th-minor-irrigation/download
+micensus_2006-07_districtwise_deeptubewell_energysrc.csv
+
+5. District wise shallow tubewells according to water distribution system
+https://data.gov.in/resources/district-wise-shallow-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_districtwise_shallowtubewell_distrsys.csv
+https://data.gov.in/resources/district-wise-shallow-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_districtwise_shallowtubewell_distrsys.csv
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_districtwise_shallowtubewell_distrsys.csv
+
+6. District wise Distribution of shallow tubewells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-shallow-tubewells-according-source-energy-4th-minor-irrigation/download
+micensus_2006-07_districtwise_shallowtubewell_energysrc.csv

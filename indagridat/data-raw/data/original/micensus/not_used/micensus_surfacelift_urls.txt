@@ -1,0 +1,178 @@
+1. District wise irrigation through supplementary sources under surface lift schemes
+https://data.gov.in/resources/district-wise-irrigation-through-supplementary-sources-under-surface-lift-schemes-2nd/download
+micensus_1993-94_1_surfacelift.csv
+
+2. District wise surface lift schemes in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-surface-lift-schemes-command-majormedium-projects-and-supplementary/download
+micensus_2000-01_2_surfacelift.csv
+
+3. District wise potential utilized through surface lift schemes
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-surface-lift-schemes-2nd-census-minor/download
+micensus_1993-94_3_surfacelift.csv
+https://data.gov.in/resources/district-wise-potential-utilized-through-lift-schemes-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_3_surfacelift.csv
+https://data.gov.in/resources/district-wise-season-wise-potential-utilised-through-surface-lift-schemes-4th-minor/download
+micensus_2006-07_3_surfacelift.csv
+
+4. District wise distribution of surface lift schemes by type
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-its-type-2nd-census-minor-irrigation/download
+micensus_1993-94_4_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-type-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_4_surfacelift.csv
+https://data.gov.in/resources/district-wise-number-surface-lift-schemes-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_4_surfacelift.csv
+
+5. District wise construction of surface lift schemes over the years
+https://data.gov.in/resources/district-wise-construction-surface-lift-schemes-over-years-3rd-census-minor-irrigation/download
+micensus_2000-01_5_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-construction-over-years-2nd/download
+micensus_1993-94_5_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_5_surfacelift.csv
+
+6. District wise distribution of surface lift schemes according to horsepower
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horse-power-lifting-device-3rd/download
+micensus_2000-01_6_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horsepower-2nd-census-minor/download
+micensus_1993-94_6_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-horse-power-lifting-device-4th/download
+micensus_2006-07_6_surfacelift.csv
+
+7. District wise distribution of surface lift schemes according to ownership
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-3rd-census-minor/download
+micensus_2000-01_7_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-2nd-census-minor/download
+micensus_1993-94_7_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownership-4th-minor-irrigation/download
+micensus_2006-07_7_surfacelift.csv
+
+8. District wise distribution of surface lift schemes by status
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-its-status-2nd-census-minor-irrigation/download
+micensus_1993-94_8_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-status-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_8_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-status-utilisation-4th-minor-irrigation/download
+micensus_2006-07_8_surfacelift.csv
+
+9. District wise surface lift schemes according to water distribution system
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_9_surfacelift.csv
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_9_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-water-distribution-system-and/download
+micensus_2006-07_9_surfacelift.csv
+
+10. District wise surface lift schemes according to the constraints
+https://data.gov.in/resources/district-wise-surface-lift-schemes-according-constraints-2nd-census-minor-irrigation/download
+micensus_1993-94_10_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-constraints-utilisation/download
+micensus_2006-07_10_surfacelift.csv
+
+11. District wise Distribution of Lift Schemes by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-cost-maintenance-4th-minor-irrigation/download
+micensus_2006-07_11_surfacelift.csv
+
+12. District wise distribution of surface lift schemes according to social status
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-3rd-census-minor/download
+micensus_2000-01_12_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-2nd-census-minor/download
+micensus_1993-94_12_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-social-status-owner-4th-minor/download
+micensus_2006-07_12_surfacelift.csv
+
+13. District wise culturable command area and potential created through surface lift schemes
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-lift-schemes/download
+micensus_2000-01_13_surfacelift.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-surface-lift-schemes-0/download
+micensus_1993-94_13_surfacelift.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-surface-lift-schemes-4th-minor/download
+micensus_2006-07_13_surfacelift.csv
+
+14. District wise distribution of surface lift schemes according to source of finance
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-finance-3rd-census-minor/download
+micensus_2000-01_14_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-finance-sources-2nd-census-minor/download
+micensus_1993-94_14_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-finance-4th-minor/download
+micensus_2006-07_14_surfacelift.csv
+
+15. District wise distribution of surface lift schemes according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-farmers-holding-size-3rd-census/download
+micensus_2000-01_15_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-holding-size-2nd-census-minor/download
+micensus_1993-94_15_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-ownerships-holding-size-4th/download
+micensus_2006-07_15_surfacelift.csv
+
+16. District wise distribution of surface lift schemes according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-lifting-device-2nd-census-minor/download
+micensus_1993-94_16_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-water-lifting-device-3rd-census/download
+micensus_2000-01_16_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-lifting-devices-4th-minor/download
+micensus_2006-07_16_surfacelift.csv
+
+17. District wise average length of water conveyance channel of surface lift schemes
+https://data.gov.in/resources/district-wise-average-length-water-conveyance-channel-surface-lift-schemes-2nd-census/download
+micensus_1993-94_17_surfacelift.csv
+
+18. District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by storage size
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-storage-size-4th-minor/download
+micensus_2006-07_18_surfacelift.csv
+
+19. District wise distribution of surface lift schemes according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-average-pumping-hours-3rd-census/download
+micensus_2000-01_19_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-average-hours-pumping-day-4th/download
+micensus_2006-07_19_surfacelift.csv
+
+20. District wise distribution of surface lift schemes in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-use-according-utilization-potential/download
+micensus_2000-01_20_surfacelift.csv
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-cca-classes-use-and-pc/download
+micensus_2006-07_20_surfacelift.csv
+
+21. District wise Distribution of Lift Schemes according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-total-hours-pumping-operation/download
+micensus_2006-07_21_surfacelift.csv
+
+22. District wise Distribution of Lift Schemes permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-permanently-not-use-reasons-4th-minor/download
+micensus_2006-07_22_surfacelift.csv
+
+23. District wise Distribution of Tanks/Ponds/Reservoir of Lift Schemes by CCA classes
+https://data.gov.in/resources/district-wise-distribution-tankspondsreservoir-surface-lift-schemes-cca-classes-4th-minor/download
+micensus_2006-07_23_surfacelift.csv
+
+24. District wise Distribution of Lift Schemes according to source of energy
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-according-source-energy-4th-minor/download
+micensus_2006-07_24_surfacelift.csv
+
+25. District wise Distribution of Lift Schemes temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-temporary-not-use-reasons-4th-minor/download
+micensus_2006-07_25_surfacelift.csv
+
+26. District wise surface lift schemes in the command of major/medium projects and average pumping hours
+https://data.gov.in/resources/district-wise-surface-lift-schemes-command-majormedium-projects-and-average-pumping-hours/download
+micensus_1993-94_26_surfacelift.csv
+
+27. District wise Distribution of Lift Schemes by location in the command of Major/Medium projects
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemes-location-command-majormedium-projects-4th/download
+micensus_2006-07_27_surfacelift.csv
+
+28. District wise distribution of surface lift schemes(on drain/canal) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-draincanal-use-and-their-potential/download
+micensus_2000-01_28_surfacelift.csv
+
+29. District wise distribution of surface lift schemes(on river) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-river-use-and-their-potential-created/download
+micensus_2000-01_29_surfacelift.csv
+
+30. District wise distribution of surface lift schemes(on stream) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-stream-use-and-their-potential-created/download
+micensus_2000-01_30_surfacelift.csv
+
+31. District wise distribution of surface lift schemes(on tank/pond) in use and their potential created and utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-surface-lift-schemeson-tankpond-use-and-their-potential-created/download
+micensus_2000-01_31_surfacelift.csv
+

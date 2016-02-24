@@ -1,0 +1,25 @@
+1. State wise dugwells according to water distribution system
+https://data.gov.in/resources/state-wise-dugwells-according-water-distribution-system-2nd-census-minor-irrigation-census/download
+micensus_1993-94_statewise_dugwell_distrsys.csv
+https://data.gov.in/resources/state-wise-dugwells-according-water-distribution-system-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_statewise_dugwell_distrsys.csv
+https://data.gov.in/resources/state-wise-distribution-dugwells-according-water-distribution-system-and-potential/download
+micensus_2006-07_statewise_dugwell_distrsys.csv
+
+2. State wise deep tubewells according to water distribution system
+https://data.gov.in/resources/state-wise-deep-tubewells-according-water-distribution-system-2nd-census-minor-irrigation/download
+micensus_1993-94_statewise_deeptubewell_distrsys.csv
+https://data.gov.in/resources/state-wise-deep-tubewells-according-water-distribution-system-3rd-census-minor-irrigation/download
+micensus_2000-01_statewise_deeptubewell_distrsys.csv
+https://data.gov.in/resources/state-wise-distribution-deep-tubewells-according-water-distribution-system-and-potential/download
+micensus_2006-07_statewise_deeptubewell_distrsys.csv
+
+3. State wise shallow tubewells according to water distribution system
+https://data.gov.in/resources/state-wise-shallow-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_statewise_shallowtubewell_distrsys.csv
+https://data.gov.in/resources/state-wise-shallow-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_statewise_shallowtubewell_distrsys.csv
+https://data.gov.in/resources/state-wise-distribution-shallow-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_statewise_shallowtubewell_distrsys.csv
+
+

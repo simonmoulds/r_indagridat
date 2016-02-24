@@ -9,7 +9,7 @@
 indiastat
 }
 \description{
-Dataset containing various.. TODO
+Dataset containing various... TODO
 }
 \examples{
 data(indiastat)

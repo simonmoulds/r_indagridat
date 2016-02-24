@@ -1,0 +1,150 @@
+1. District wise distribution of deep tubewells according to irrigation through supplementary source
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-irrigation-through-supplementary/download
+micensus_1993-94_1_deeptubewell.csv
+
+2. District wise deep tubewells in the command of major/medium projects and supplementary irrigation
+https://data.gov.in/resources/district-wise-deep-tubewells-command-majormedium-projects-and-supplementary-irrigation-3rd/download
+micensus_2000-01_2_deeptubewell.csv
+
+3. District wise potential utilized through deep tubewells
+https://data.gov.in/resources/district-wise-irrigation-potential-utilized-through-deep-tubewells-2nd-census-minor/download
+micensus_1993-94_3_deeptubewell.csv
+
+4. District wise distribution of deep tubewells according to ownership
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-2nd-census-minor-irrigation/download
+micensus_1993-94_4_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-3rd-census-minor-irrigation/download
+micensus_2000-01_4_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownership-4th-minor-irrigation-census/download
+micensus_2006-07_4_deeptubewell.csv
+
+5. District wise distribution of deep tubewells by status
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-2nd-census-minor-irrigation-schemes-1993/download
+micensus_1993-94_5_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-3rd-census-minor-irrigation-scheme-2000/download
+micensus_2000-01_5_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-status-utilisation-4th-minor-irrigation-census/download
+micensus_2006-07_5_deeptubewell.csv
+
+6. District wise construction of deep tubewells over the years
+https://data.gov.in/resources/district-wise-construction-deep-tubewells-over-years-2nd-census-minor-irrigation-schemes/download
+micensus_1993-94_6_deeptubewell.csv
+https://data.gov.in/resources/district-wise-construction-deep-tubewells-over-years-3rd-census-minor-irrigation-scheme/download
+micensus_2000-01_6_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-and-cost-construction-over-year-4th-minor/download
+micensus_2006-07_6_deeptubewell.csv
+
+7. District wise deep tubewells according to water distribution system
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-2nd-census-minor/download
+micensus_1993-94_7_deeptubewell.csv
+https://data.gov.in/resources/district-wise-deep-tubewells-according-water-distribution-system-3rd-census-minor/download
+micensus_2000-01_7_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-distribution-system-and/download
+micensus_2006-07_7_deeptubewell.csv
+
+8. District wise distribution of deep tubewells according to social status
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-2nd-census-minor/download
+micensus_1993-94_8_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-3rd-census-minor/download
+micensus_2000-01_8_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-social-status-owner-4th-minor/download
+micensus_2006-07_8_deeptubewell.csv
+
+9. District wise distribution of deep tubewells by type
+https://data.gov.in/resources/district-wise-number-deep-tubewells-type-4th-minor-irrigation-census-2006-07/download
+micensus_2006-07_9_deeptubewell.csv
+
+10. District wise distribution of deep tubewells according to the constraints
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-constraints-2nd-census-minor/download
+micensus_1993-94_10_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-constraints-utilisation-potential-4th/download
+micensus_2006-07_10_deeptubewell.csv
+
+11. District wise distribution of deep tubewells by cost of maintenance
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-cost-maintenance-4th-minor-irrigation-census/download
+micensus_2006-07_11_deeptubewell.csv
+
+12. District wise culturable command area and potential created through deep tubewells
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-deep-tubewells-2nd/download
+micensus_1993-94_12_deeptubewell.csv
+https://data.gov.in/resources/district-wise-culturable-command-area-and-potential-created-through-deep-tubewells-3rd/download
+micensus_2000-01_12_deeptubewell.csv
+https://data.gov.in/resources/district-wise-cca-and-season-wise-potential-created-through-deep-tubewell-4th-minor/download
+micensus_2006-07_12_deeptubewell.csv
+
+13. District wise distribution of deep tubewells according to average pumping hours
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-pumping-hours-3rd-census-minor/download
+micensus_2000-01_13_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-pumping-hours-during-peak/download
+micensus_1993-94_13_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-hours-pumping-day-4th-minor/download
+micensus_2006-07_13_deeptubewell.csv
+
+14. District wise distribution of deep tubewells according to source of finance
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-2nd-census-minor/download
+micensus_1993-94_14_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-3rd-census-minor/download
+micensus_2000-01_14_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-finance-4th-minor-irrigation/download
+micensus_2006-07_14_deeptubewell.csv
+
+15. District wise distribution of deep tubewells according to water lifting device
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-lifting-device-2nd-census-minor/download
+micensus_1993-94_15_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-water-lifting-device-3rd-census-minor/download
+micensus_2000-01_15_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-lifting-devices-4th-minor-irrigation/download
+micensus_2006-07_15_deeptubewell.csv
+
+16. District wise distribution of deep tubewells according to horse power of lifting device
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-2nd-census/download
+micensus_1993-94_16_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-3rd-census/download
+micensus_2000-01_16_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-horse-power-lifting-device-4th-minor/download
+micensus_2006-07_16_deeptubewell.csv
+
+17. District wise distribution of deep tubewells according to the farmers holding size
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-farmers-holding-size-2nd-census-minor/download
+micensus_1993-94_17_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-farmers-holding-size-3rd-census-minor/download
+micensus_2000-01_17_deeptubewell.csv
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-ownerships-holding-size-4th-minor/download
+micensus_2006-07_17_deeptubewell.csv
+
+18. District wise distribution of deep tubewells according to average length of water conveyance channel
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-average-length-water-conveyance/download
+micensus_1993-94_18_deeptubewell.csv
+
+19. District wise distribution of deep tubewells in use according to utilization of potential created
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-use-according-utilization-potential-created-3rd/download
+micensus_2000-01_19_deeptubewell.csv
+
+20. District-wise distribution of deep tubewell according to depth of the deep tubewells
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-depth-deep-tubewell-4th-minor/download
+micensus_2006-07_20_deeptubewell.csv
+
+21. District wise distribution of deep tubewells according to total hours of pumping operation
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-total-hours-pumping-operation-4th/download
+micensus_2006-07_21_deeptubewell.csv
+
+22. District wise distribution of deep tubewells permanently not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-permanently-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_22_deeptubewell.csv
+
+23. District wise distribution of deep tubewells according to source of energy
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-according-source-energy-4th-minor-irrigation/download
+micensus_2006-07_23_deeptubewell.csv
+
+24. District wise distribution of deep tubewells temporary not is use by reasons
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-temporary-not-use-reasons-4th-minor-irrigation/download
+micensus_2006-07_24_deeptubewell.csv
+
+25. District wise distribution of deep tubewells by location in the command of major/medium projects
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-location-command-majormedium-projects-4th-minor/download
+micensus_2006-07_25_deeptubewell.csv
+
+26. District wise distribution of deep tubewells in use and their potential created/utilized according to public and private
+https://data.gov.in/resources/district-wise-distribution-deep-tubewells-use-and-their-potential-createdutilized/download
+micensus_2000-01_26_deeptubewell.csv
+
