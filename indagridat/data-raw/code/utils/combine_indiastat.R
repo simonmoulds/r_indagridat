@@ -57,5 +57,13 @@ for (i in 1:length(states)) {
 indiastat.combined.data <- do.call(rbind, data)
 ## names(combined.data) <- readRDS(file.path(aux.path, "names_indiastat.rds"))
 
+## Remove Bihar/Bangalore Rural combination - this arises in
+## file '02. Cropwise Irrigated Area for Cereals.xls',
+## sheet '2001-2002', data for Jharkhand (which is changed to
+## Bihar)
+
+rm_ix = (indiastat.combined.data$State == "Bihar" & indiastat.combined.data$District == "Bangalore Rural")
+indiastat.combined.data = indiastat.combined.data[!rm_ix,]
+
 saveRDS(indiastat.combined.data, file.path(mod.path, "indiastat_combined_data.rds"))
 

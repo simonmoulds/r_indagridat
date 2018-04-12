@@ -68,7 +68,7 @@ aggregate_data <- function(data, index, startCol=1, endCol=ncol(data), fun=max, 
   
     if (length(index) > 1) {
         tmp <- data[index,startCol:endCol]                
-        x <- as.numeric(apply(tmp, 2, FUN=fun, na.rm=na.rm, ...))
+        x <- as.numeric(apply(tmp, 2, FUN=fun, na.rm=na.rm), ...)
         if (na.rm) {
             x[which(apply(tmp, 2, function(x) all(is.na(x))))] <- NA
         }

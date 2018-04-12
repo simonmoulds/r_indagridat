@@ -1,4 +1,4 @@
-library(indagridat)
+## library(indagridat)
 library(spacetime)
 library(sp)
 library(lattice)
@@ -11,9 +11,14 @@ library(rgeos)
 ## Converting the data frames included in 'indagridat' to 'spacetime' objects makes it easy to analyse the data. 
 
 ## load the package and attach the data objects
-library(indagridat)
+## library(indagridat)
+library(devtools)
+devtools::load_all("indagridat")
 data(icrisat1950)
 data(indiastat1950)
+
+data(icrisat)
+data(indiastat)
 
 ## These data objects are data frames containing data for most districts in India. More districts are included in the Indiastat data.frame. 
 
