@@ -1086,8 +1086,21 @@ for (i in 1:nrow(lut)) {
     }
 }
 
-lut$ID = paste(lut$ID, adm1_code, sep=".")
-lut$ID[lut$ID == "NA.NA"] = NA
+## lut$ID = paste(lut$ID, adm1_code, sep=".")
+## lut$ID[lut$ID == "NA.NA"] = NA
+
+## deal with duplicates
+## ####################
+
+adm2_code = gaul.india.district.1960$ADM2_CODE
+adm1_name = gaul.india.district.1960$ADM1_NAME
+
+adm2_code[adm2_code == "72583" & adm1_name == "Bihar"] = "82583"
+adm2_code[adm2_code == "72586" & adm1_name == "Bihar"] = "82586"
+gaul.india.district.1960$ADM2_CODE = adm2_code
+
+lut$ID[lut$ID == "72583" & lut$STNAME == "Bihar"] = "82583"
+lut$ID[lut$ID == "72586" & lut$STNAME == "Bihar"] = "82586"
 
 ## Write lookup table to file
 ## ##########################
@@ -1099,7 +1112,7 @@ saveRDS(lut, file.path(lut.path, "aggr_1960_LUT.rds"))
 ## ######################
 
 ## Avoid duplicated ADM2_CODE by joining with ADM1_CODE
-gaul.india.district.1960$ADM2_CODE = paste(gaul.india.district.1960$ADM2_CODE, gaul.india.district.1960$ADM1_CODE, sep=".")
+## gaul.india.district.1960$ADM2_CODE = paste(gaul.india.district.1960$ADM2_CODE, gaul.india.district.1960$ADM1_CODE, sep=".")
 
 ## Write polygons to file
 writeOGR(gaul.india.district.1960, dsn=mod.path, layer="g1960_2_India", driver="ESRI Shapefile", overwrite_layer=TRUE)
