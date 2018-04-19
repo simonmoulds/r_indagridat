@@ -129,13 +129,4 @@ for (i in 1:length(ids)) {
 
 indiastat.combined.data.1960 <- do.call(rbind, data)
 names(indiastat.combined.data.1960) <- readRDS(file.path(aux.path, "names_indiastat.rds"))
-
-id = indiastat.combined.data.1960$ID
-id1 =
-    sapply(strsplit(id, "\\."), FUN=function(x) x[2]) %>%
-    stringr::str_pad(width=5, side="left", pad=0)
-    
-id2 = sapply(strsplit(id, "\\."), FUN=function(x) x[1])
-indiastat.combined.data.1960$ID = paste0(id2, id1)
-
 saveRDS(indiastat.combined.data.1960, file.path(mod.path, "indiastat_combined_data_1960.rds"))
