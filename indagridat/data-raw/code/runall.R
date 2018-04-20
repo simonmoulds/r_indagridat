@@ -112,7 +112,30 @@ indiastat1960 <- readRDS(file.path(mod.path, "indiastat_combined_data_1960.rds")
 icrisat       <- readRDS(file.path(mod.path, "icrisat_combined_data.rds"))
 icrisat1960   <- readRDS(file.path(mod.path, "icrisat_combined_data_1960.rds"))
 
-## combined1960  <- checked.data.1960
+## adjust names
+adm = readOGR(dsn=mod.path, layer="g1960_2_India_aea")
+
+## indiastat
+adm1_code = adm@data$ADM1_CODE[match(indiastat1960$ID, adm@data$ADM2_CODE)]
+indiastat1960_data = indiastat1960[,5:ncol(indiastat1960)]
+indiastat1960_metadata =
+    cbind(indiastat1960[,1:4], data.frame(ADM1_CODE=adm1_code)) %>%
+    dplyr::select("State","ADM1_CODE","District","ID","Year") %>%
+    setNames(c("State","ADM1_CODE","District","ADM2_CODE","Year"))
+indiastat1960 = cbind(indiastat1960_metadata, indiastat1960_data)
+indiastat1960$ADM1_CODE %<>% as.numeric
+indiastat1960$ADM2_CODE %<>% as.numeric
+
+## icrisat
+adm1_code = adm@data$ADM1_CODE[match(icrisat1960$ID, adm@data$ADM2_CODE)]
+icrisat1960_data = icrisat1960[,5:ncol(icrisat1960)]
+icrisat1960_metadata =
+    cbind(icrisat1960[,1:4], data.frame(ADM1_CODE=adm1_code)) %>%
+    dplyr::select("State","ADM1_CODE","District","ID","Year") %>%
+    setNames(c("State","ADM1_CODE","District","ADM2_CODE","Year"))
+icrisat1960 = cbind(icrisat1960_metadata, icrisat1960_data)
+icrisat1960$ADM1_CODE %<>% as.numeric
+icrisat1960$ADM2_CODE %<>% as.numeric
 
 devtools::use_data(indiastat, overwrite=TRUE)
 devtools::use_data(indiastat1960, overwrite=TRUE)

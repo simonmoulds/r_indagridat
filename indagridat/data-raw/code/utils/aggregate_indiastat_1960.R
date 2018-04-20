@@ -97,7 +97,7 @@ for (i in 1:length(ids)) {
     nm <- unique(combined.data$District[combined.data$ID %in% id])
     st <- unique(combined.data$State[combined.data$ID %in% id])
     ar <- area[adm@data$ADM2_CODE %in% id]
-    
+
     if (length(nm) > 1) {
         stop("ID should only correspond with one name")
     }
