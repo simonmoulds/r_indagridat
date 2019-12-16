@@ -137,11 +137,11 @@ icrisat1960 = cbind(icrisat1960_metadata, icrisat1960_data)
 icrisat1960$ADM1_CODE %<>% as.numeric
 icrisat1960$ADM2_CODE %<>% as.numeric
 
-devtools::use_data(indiastat, overwrite=TRUE)
-devtools::use_data(indiastat1960, overwrite=TRUE)
+usethis::use_data(indiastat, overwrite=TRUE)
+usethis::use_data(indiastat1960, overwrite=TRUE)
 
-devtools::use_data(icrisat, overwrite=TRUE)
-devtools::use_data(icrisat1960, overwrite=TRUE)
+usethis::use_data(icrisat, overwrite=TRUE)
+usethis::use_data(icrisat1960, overwrite=TRUE)
 
 ## clean data-raw directory
 

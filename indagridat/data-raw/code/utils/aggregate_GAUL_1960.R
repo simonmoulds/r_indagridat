@@ -436,6 +436,11 @@ ix <- get_ix(c(72658,72659), "Orissa")
 ids[ix] <- ids[ix[1]]
 nms[ix] <- "Kalahandi.Koraput"
 
+## Sambalpur, Sundargarh
+ix <- get_ix(c(72662,17820), "Orissa")
+ids[ix] <- ids[ix[1]]
+nms[ix] <- "Sambalpur.Sundargarh"
+
 ## ======================================
 ## Pondicherry
 ## ======================================

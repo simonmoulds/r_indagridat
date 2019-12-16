@@ -14,8 +14,8 @@ library(rgeos)
 ## library(indagridat)
 library(devtools)
 devtools::load_all("indagridat")
-data(icrisat1950)
-data(indiastat1950)
+data(icrisat1960)
+data(indiastat1960)
 
 data(icrisat)
 data(indiastat)
@@ -23,7 +23,7 @@ data(indiastat)
 ## These data objects are data frames containing data for most districts in India. More districts are included in the Indiastat data.frame. 
 
 ## read various vector maps
-dist.1956 <- readShapePoly(system.file("shapes/IND_adm2_1956.shp", package="indagridat"))
+dist.1956 <- readShapePoly(system.file("shapes/g1960_2_India.shp", package="indagridat"))
   
 ## subset district map to include only those polygons associated with Indiastat data
 adm2 <- dist.1956@data$ID_2
